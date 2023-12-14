@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+pryIEFI-Varela
+</name>
+</assembly>
+<members>
+<member name="T:pryIEFI_Varela.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:pryIEFI_Varela.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:pryIEFI_Varela.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:pryIEFI_Varela.My.Resources.Resources._14490734_image_l">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pryIEFI_Varela.My.Resources.Resources._8f3a7736133abdd5fb478b4f674e49b7">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pryIEFI_Varela.My.Resources.Resources.featured_minecraft_how_to_make_a_bookshelf">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pryIEFI_Varela.My.Resources.Resources.featured_minecraft_how_to_make_a_bookshelf1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pryIEFI_Varela.My.Resources.Resources.fondo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pryIEFI_Varela.My.Resources.Resources.old_wooden_texture_background_vintage_55716_1138">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pryIEFI_Varela.My.Resources.Resources.photos_2019_2_13_fst_bookshelf_books">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pryIEFI_Varela.My.Resources.Resources.photos_2019_2_13_fst_bookshelf_books1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
